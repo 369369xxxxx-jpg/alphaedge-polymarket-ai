@@ -1,1 +1,6 @@
-
+openai
+requests
+python-dotenv
+schedule
+fastapi
+uvicorn
